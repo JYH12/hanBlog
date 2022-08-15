@@ -1,0 +1,2 @@
+hanBlog init
+hanBlog init
